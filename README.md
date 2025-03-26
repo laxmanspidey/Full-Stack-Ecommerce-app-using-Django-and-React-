@@ -5,8 +5,6 @@ A FullStack Ecommerce App built with Django and React.
 </p>
 
 
-(Note: The website can take upto 30 seconds (hosted on Heroku free tier services), as the project has no clients, its just for learning, please refer the source
-code to run locally).
 
 # Table of contents
 - [About_this_App](#About_this_App)
